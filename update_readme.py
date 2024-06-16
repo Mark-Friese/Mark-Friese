@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 16 15:25:23 2024
-
-@author: Mark Friese
-"""
-
 import requests
 from bs4 import BeautifulSoup
 
@@ -13,17 +6,20 @@ rss_url = "https://medium.com/feed/@mark.friese.meng"
 
 # Fetch the RSS feed
 response = requests.get(rss_url)
-soup = BeautifulSoup(response.content, features='xml')
+soup = BeautifulSoup(response.content, 'xml')  # Use 'xml' as the parser
 
 # Extract articles
 articles = soup.findAll('item')
 
 # Generate Markdown for the articles
-articles_md = "\n".join([
-    f"### [{article.title.text}]({
-        article.link.text})\n- {article.description.text}\n"
-    for article in articles[:5]  # Limiting to the latest 5 articles
-])
+articles_md = []
+for article in articles[:5]:  # Limiting to the latest 5 articles
+    title = article.title.text if article.title else "No title"
+    link = article.link.text if article.link else "No link"
+    description = article.description.text if article.description else "No description"
+    articles_md.append(f"### [{title}]({link})\n- {description}\n")
+
+articles_md = "\n".join(articles_md)
 
 # Read the README file
 with open("README.md", "r") as file:
