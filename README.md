@@ -46,15 +46,3 @@
 ### [An Introduction to Folium, for beginners](https://medium.com/@mark.friese.meng/am-introduction-to-folium-for-beginners-26db59fdeac0?source=rss-adce0ee9bcb9------2)
 - No description
 
-
-
-<br />
-<br />
-
-[linkedin]: https://www.linkedin.com/in/markfriese1
-[medium]: https://medium.com/@mark.friese.meng
-[X]: https://x.com/MarkFrieseMEng
-<!-- START_MEDIUM_ARTICLES -->
-
-
-<!-- END_MEDIUM_ARTICLES -->
