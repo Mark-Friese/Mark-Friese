@@ -32,7 +32,7 @@
 
 <!-- START_MEDIUM_ARTICLES -->
 <div style="margin-bottom: 20px;">
-  <a href="https://medium.com/@mark.friese.meng/fetch-process-and-visualize-data-from-the-aliss-api-with-python-6d1b6694cd90?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
+  <a href=""https://medium.com/@mark.friese.meng/fetch-process-and-visualize-data-from-the-aliss-api-with-python-6d1b6694cd90?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
     <h3 style="margin-bottom: 5px;">Fetch, Process, and Visualize Data from the ALISS API with Python</h3>
     <img src="https://miro.medium.com/v2/resize:fill:180:120/1*iFmanEEyT7egWh63vUMMKg.jpeg" alt="Fetch, Process, and Visualize Data from the ALISS API with Python" style="width: 100px; height: 100px; float: left; margin-right: 10px;">
   </a>
