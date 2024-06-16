@@ -29,7 +29,14 @@ jobs:
       - name: Run script to update README
         run: python update_readme.py
 
+      - name: Check for changes
+        id: git_diff
+        run: |
+          git fetch
+          git diff --exit-code || echo "::set-output name=changes::true"
+
       - name: Commit and push changes
+        if: steps.git_diff.outputs.changes == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
         run: |
