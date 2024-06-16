@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import hashlib
 
 # Medium RSS feed URL
 rss_url = "https://medium.com/feed/@mark.friese.meng"
@@ -11,15 +12,28 @@ soup = BeautifulSoup(response.content, 'xml')  # Use 'xml' as the parser
 # Extract articles
 articles = soup.findAll('item')
 
-# Generate Markdown for the articles
-articles_md = []
+# Generate HTML for the articles
+articles_html = []
 for article in articles[:5]:  # Limiting to the latest 5 articles
     title = article.title.text if article.title else "No title"
     link = article.link.text if article.link else "No link"
-    description = article.description.text if article.description else "No description"
-    articles_md.append(f"### [{title}]({link})\n- {description}\n")
+    description = BeautifulSoup(article.description.text, 'html.parser').text if article.description else "No description"
+    pub_date = article.pubDate.text if article.pubDate else "No date"
+    thumbnail = article.find('media:thumbnail')['url'] if article.find('media:thumbnail') else ""
 
-articles_md = "\n".join(articles_md)
+    articles_html.append(f"""
+    <div style="margin-bottom: 20px;">
+        <a href="{link}" style="text-decoration: none; color: black;">
+            <h3>{title}</h3>
+            <img src="{thumbnail}" alt="{title}" style="width: 100px; height: 100px; float: left; margin-right: 20px;">
+            <p>{description}</p>
+            <small>{pub_date}</small>
+        </a>
+        <div style="clear: both;"></div>
+    </div>
+    """)
+
+articles_html = "\n".join(articles_html)
 
 # Read the README file
 try:
@@ -44,9 +58,15 @@ else:
     after_articles = "\n" + end_marker
 
 # Combine the new content
-new_readme_content = f"{before_articles}{
-    start_marker}\n{articles_md}\n{after_articles}"
+new_readme_content = f"{before_articles}{start_marker}\n{articles_html}\n{end_marker}{after_articles}"
 
-# Write the updated content to the README file
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(new_readme_content)
+# Calculate the hash of the new content
+new_readme_hash = hashlib.md5(new_readme_content.encode('utf-8')).hexdigest()
+
+# Calculate the hash of the existing content
+existing_readme_hash = hashlib.md5(readme_content.encode('utf-8')).hexdigest()
+
+# Only write to the file if the content has changed
+if new_readme_hash != existing_readme_hash:
+    with open("README.md", "w", encoding="utf-8") as file:
+        file.write(new_readme_content)
