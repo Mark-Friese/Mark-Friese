@@ -1,32 +1,40 @@
 # Hi there, I'm Mark 👋
 
-## I'm a Father, Husband, Electrical Engineer and Coding Enthusiast!!
+## I'm a Father, Husband, Electrical Engineer, and Coding Enthusiast!!
 
-- 🌱 I’m currently learning everything and anything code related 🤣
-- 👯 I Love Reading Policies, ENA Engineering Recommendations (EREC) & Engineering Reports (EREP)
-- 🥅 2024 Goals: Learn more about API's, Django and frontend development
-- ⚡ Fun fact: My favourite place to be (when not coding) is outdoors Mountain Bike, Hiking and SUP with my Family!
+- 🌱 I’m currently learning everything and anything code-related 😂
+- 📚 I love reading Policies, ENA Engineering Recommendations (EREC), and Engineering Reports (EREP)
+- 🎯 2024 Goals: Learn more about APIs, Django, and frontend development
+- ⚡ Fun fact: My favorite place to be (when not coding) is outdoors Mountain Biking, Hiking, and SUP with my Family!
 
-### Connect with me:
-
-[<img src="./img/linkedin-light.svg" width="80" height="80">](https://www.linkedin.com/in/markfriese1)
-&nbsp;
-[<img src="./img/x-black.png" width="75" height="75">](https://X.com/MarkFrieseMEng)
-&nbsp;
-[<img src="./img/medium-icon.svg" width="80" height="80">](https://medium.com/@mark.friese.meng)
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/markfriese1" target="_blank">
-  <img src="https://maxst.icons8.com/vue-static/landings/page-index/link-section/social/linkedIn1x.webp" alt="LinkedIn" style="width: 30px; height: 30px;">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="width: 48px; height: 48px;">
 </a>
 <a href="https://medium.com/@mark.friese.meng" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/medium.png" alt="Medium" style="width: 30px; height: 30px;">
+  <img src="https://img.icons8.com/color/48/medium-logo.png" alt="Medium" style="width: 48px; height: 48px;">
 </a>
 <a href="https://x.com/MarkFrieseMEng" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="X" style="width: 30px; height: 30px;">
+  <img src="https://img.icons8.com/color/48/twitterx--v2.png" alt="X" style="width: 48px; height: 48px;">
 </a>
 
+### Icons by [Icons8](https://icons8.com)
+
+## Medium Articles
+
+<!-- START_MEDIUM_ARTICLES -->
+<!-- END_MEDIUM_ARTICLES -->
+
+## Contact Me
+Feel free to connect with me on LinkedIn!
 
 <br />
 <br />
