@@ -31,26 +31,35 @@
 ## Projects and Articles
 
 <!-- START_MEDIUM_ARTICLES -->
-### [Fetch, Process, and Visualize Data from the ALISS API with Python](https://medium.com/@mark.friese.meng/fetch-process-and-visualize-data-from-the-aliss-api-with-python-6d1b6694cd90?source=rss-adce0ee9bcb9------2)
+<div style="margin-bottom: 20px;">
   <a href="https://medium.com/@mark.friese.meng/fetch-process-and-visualize-data-from-the-aliss-api-with-python-6d1b6694cd90?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
-    <img src="https://miro.medium.com/v2/resize:fill:180:120/1*iFmanEEyT7egWh63vUMMKg.jpeg" alt="Fetch, Process, and Visualize Data from the ALISS API with Python" style="width: 100px; height: 100px;">
+    <h3 style="margin-bottom: 5px;">Fetch, Process, and Visualize Data from the ALISS API with Python</h3>
+    <img src="https://miro.medium.com/v2/resize:fill:180:120/1*iFmanEEyT7egWh63vUMMKg.jpeg" alt="Fetch, Process, and Visualize Data from the ALISS API with Python" style="width: 100px; height: 100px; float: left; margin-right: 10px;">
   </a>
-  <p>As developers, we often need to work with data from various APIs to create useful applications. One such API is the ALISS (A Local...</p>
-  <small>Tue, 21 May 2024 22:22:45 GMT</small>
+  <p style="font-size: 14px; line-height: 1.6;">As developers, we often need to work with data from various APIs to create useful applications. One such API is the ALISS (A Local...</p>
+  <small style="font-size: 12px; color: gray;">Tue, 21 May 2024 22:22:45 GMT</small>
+  <div style="clear: both;"></div>
+</div>
 
-### [5 Tips for Effective Data Visualization](https://medium.com/@mark.friese.meng/5-tips-for-effective-data-visualization-99556b8d558e?source=rss-adce0ee9bcb9------2)
+<div style="margin-bottom: 20px;">
   <a href="https://medium.com/@mark.friese.meng/5-tips-for-effective-data-visualization-99556b8d558e?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
-    <img src="https://miro.medium.com/v2/da:true/resize:fill:180:120/0*DoLhRYPuCYNdPff2" alt="5 Tips for Effective Data Visualization" style="width: 100px; height: 100px;">
+    <h3 style="margin-bottom: 5px;">5 Tips for Effective Data Visualization</h3>
+    <img src="https://miro.medium.com/v2/da:true/resize:fill:180:120/0*DoLhRYPuCYNdPff2" alt="5 Tips for Effective Data Visualization" style="width: 100px; height: 100px; float: left; margin-right: 10px;">
   </a>
-  <p>Effective data visualization is crucial for understanding and communicating complex data sets. When done well,...</p>
-  <small>Thu, 29 Dec 2022 22:50:54 GMT</small>
+  <p style="font-size: 14px; line-height: 1.6;">Effective data visualization is crucial for understanding and communicating complex data sets. When done well,...</p>
+  <small style="font-size: 12px; color: gray;">Thu, 29 Dec 2022 22:50:54 GMT</small>
+  <div style="clear: both;"></div>
+</div>
 
-### [Geopandas Tips for Working with Geospatial Data in Python](https://medium.com/@mark.friese.meng/geopandas-tips-for-working-with-geospatial-data-in-python-ab1dbc7b3263?source=rss-adce0ee9bcb9------2)
+<div style="margin-bottom: 20px;">
   <a href="https://medium.com/@mark.friese.meng/geopandas-tips-for-working-with-geospatial-data-in-python-ab1dbc7b3263?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
-    <img src="https://miro.medium.com/v2/da:true/resize:fill:180:120/0*MMaLf2vNAVmTLZIp" alt="Geopandas Tips for Working with Geospatial Data in Python" style="width: 100px; height: 100px;">
+    <h3 style="margin-bottom: 5px;">Geopandas Tips for Working with Geospatial Data in Python</h3>
+    <img src="https://miro.medium.com/v2/da:true/resize:fill:180:120/0*MMaLf2vNAVmTLZIp" alt="Geopandas Tips for Working with Geospatial Data in Python" style="width: 100px; height: 100px; float: left; margin-right: 10px;">
   </a>
-  <p>Geopandas is a powerful Python library for manipulating and analyzing geospatial data. In this post, we will cover some useful...</p>
-  <small>Thu, 29 Dec 2022 22:50:54 GMT</small>
+  <p style="font-size: 14px; line-height: 1.6;">Geopandas is a powerful Python library for manipulating and analyzing geospatial data. In this post, we will cover some useful...</p>
+  <small style="font-size: 12px; color: gray;">Thu, 29 Dec 2022 22:50:54 GMT</small>
+  <div style="clear: both;"></div>
+</div>
 <!-- END_MEDIUM_ARTICLES -->
 
 <br />
