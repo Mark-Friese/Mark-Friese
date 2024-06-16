@@ -58,4 +58,4 @@
 
 [linkedin]: https://www.linkedin.com/in/markfriese1
 [medium]: https://medium.com/@mark.friese.meng
-[X]: https://x.com/MarkFrieseMEng
+[X]: https://x.com/Mark
