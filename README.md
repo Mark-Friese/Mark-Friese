@@ -33,7 +33,7 @@
 <!-- START_MEDIUM_ARTICLES -->
 - ### [Fetch, Process, and Visualize Data from the ALISS API with Python](https://medium.com/@mark.friese.meng/fetch-process-and-visualize-data-from-the-aliss-api-with-python-6d1b6694cd90?source=rss-adce0ee9bcb9------2)
   <a href="https://medium.com/@mark.friese.meng/fetch-process-and-visualize-data-from-the-aliss-api-with-python-6d1b6694cd90?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
-    <img src="https://miro.medium.com/v2/resize:fill:180:120/1*0n4szkOCYPce8fGq5OiVHA.jpeg" alt="Fetch, Process, and Visualize Data from the ALISS API with Python" style="width: 100px; height: 100px;">
+    <img src="https://miro.medium.com/v2/resize:fill:180:120/1*iFmanEEyT7egWh63vUMMKg.jpeg" alt="Fetch, Process, and Visualize Data from the ALISS API with Python" style="width: 100px; height: 100px;">
   </a>
   <p>As developers, we often need to work with data from various APIs to create useful applications. One such API is the ALISS (A Local...</p>
   <small>Tue, 21 May 2024 22:22:45 GMT</small>
