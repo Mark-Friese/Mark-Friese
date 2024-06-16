@@ -22,21 +22,31 @@ for article in articles[:5]:  # Limiting to the latest 5 articles
 articles_md = "\n".join(articles_md)
 
 # Read the README file
-with open("README.md", "r") as file:
-    readme_content = file.read()
+try:
+    with open("README.md", "r", encoding="utf-8") as file:
+        readme_content = file.read()
+except FileNotFoundError:
+    print("README.md not found, creating a new one.")
+    readme_content = ""
 
 # Define the start and end markers for the articles section
 start_marker = "<!-- START_MEDIUM_ARTICLES -->"
 end_marker = "<!-- END_MEDIUM_ARTICLES -->"
 
-# Extract content before and after the markers
-before_articles = readme_content.split(start_marker)[0]
-after_articles = readme_content.split(end_marker)[1]
+# Check if the markers exist in the README content
+if start_marker in readme_content and end_marker in readme_content:
+    # Extract content before and after the markers
+    before_articles = readme_content.split(start_marker)[0]
+    after_articles = readme_content.split(end_marker)[1]
+else:
+    # If markers are not found, create a new structure
+    before_articles = readme_content
+    after_articles = "\n" + end_marker
 
 # Combine the new content
-new_readme_content = f"{before_articles}{start_marker}\n{
-    articles_md}\n{end_marker}{after_articles}"
+new_readme_content = f"{before_articles}{
+    start_marker}\n{articles_md}\n{after_articles}"
 
 # Write the updated content to the README file
-with open("README.md", "w") as file:
+with open("README.md", "w", encoding="utf-8") as file:
     file.write(new_readme_content)
