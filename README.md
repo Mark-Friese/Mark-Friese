@@ -31,22 +31,66 @@
 ## Projects and Articles
 
 <!-- START_MEDIUM_ARTICLES -->
-### [Fetch, Process, and Visualize Data from the ALISS API with Python](https://medium.com/@mark.friese.meng/fetch-process-and-visualize-data-from-the-aliss-api-with-python-6d1b6694cd90?source=rss-adce0ee9bcb9------2)
-- No description
 
-### [5 Tips for Effective Data Visualization](https://medium.com/@mark.friese.meng/5-tips-for-effective-data-visualization-99556b8d558e?source=rss-adce0ee9bcb9------2)
-- No description
+    <div style="margin-bottom: 20px;">
+        <a href="https://medium.com/@mark.friese.meng/fetch-process-and-visualize-data-from-the-aliss-api-with-python-6d1b6694cd90?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
+            <h3>Fetch, Process, and Visualize Data from the ALISS API with Python</h3>
+            <img src="" alt="Fetch, Process, and Visualize Data from the ALISS API with Python" style="width: 100px; height: 100px; float: left; margin-right: 20px;">
+            <p>No description</p>
+            <small>Tue, 21 May 2024 22:22:45 GMT</small>
+        </a>
+        <div style="clear: both;"></div>
+    </div>
+    
 
-### [Geopandas Tips for Working with Geospatial Data in Python](https://medium.com/@mark.friese.meng/geopandas-tips-for-working-with-geospatial-data-in-python-ab1dbc7b3263?source=rss-adce0ee9bcb9------2)
-- No description
+    <div style="margin-bottom: 20px;">
+        <a href="https://medium.com/@mark.friese.meng/5-tips-for-effective-data-visualization-99556b8d558e?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
+            <h3>5 Tips for Effective Data Visualization</h3>
+            <img src="" alt="5 Tips for Effective Data Visualization" style="width: 100px; height: 100px; float: left; margin-right: 20px;">
+            <p>No description</p>
+            <small>Thu, 29 Dec 2022 22:50:54 GMT</small>
+        </a>
+        <div style="clear: both;"></div>
+    </div>
+    
 
-### [A Short Story — The Rise of the Overlord](https://medium.com/@mark.friese.meng/a-short-story-the-rise-of-the-overlord-66b93bb4edfb?source=rss-adce0ee9bcb9------2)
-- No description
+    <div style="margin-bottom: 20px;">
+        <a href="https://medium.com/@mark.friese.meng/geopandas-tips-for-working-with-geospatial-data-in-python-ab1dbc7b3263?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
+            <h3>Geopandas Tips for Working with Geospatial Data in Python</h3>
+            <img src="" alt="Geopandas Tips for Working with Geospatial Data in Python" style="width: 100px; height: 100px; float: left; margin-right: 20px;">
+            <p>No description</p>
+            <small>Thu, 29 Dec 2022 22:49:46 GMT</small>
+        </a>
+        <div style="clear: both;"></div>
+    </div>
+    
 
-### [An Introduction to Folium, for beginners](https://medium.com/@mark.friese.meng/am-introduction-to-folium-for-beginners-26db59fdeac0?source=rss-adce0ee9bcb9------2)
-- No description
+    <div style="margin-bottom: 20px;">
+        <a href="https://medium.com/@mark.friese.meng/a-short-story-the-rise-of-the-overlord-66b93bb4edfb?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
+            <h3>A Short Story — The Rise of the Overlord</h3>
+            <img src="" alt="A Short Story — The Rise of the Overlord" style="width: 100px; height: 100px; float: left; margin-right: 20px;">
+            <p>No description</p>
+            <small>Thu, 29 Dec 2022 20:37:47 GMT</small>
+        </a>
+        <div style="clear: both;"></div>
+    </div>
+    
 
-<!-- START_MEDIUM_ARTICLES -->
-
-
+    <div style="margin-bottom: 20px;">
+        <a href="https://medium.com/@mark.friese.meng/am-introduction-to-folium-for-beginners-26db59fdeac0?source=rss-adce0ee9bcb9------2" style="text-decoration: none; color: black;">
+            <h3>An Introduction to Folium, for beginners</h3>
+            <img src="" alt="An Introduction to Folium, for beginners" style="width: 100px; height: 100px; float: left; margin-right: 20px;">
+            <p>No description</p>
+            <small>Thu, 29 Dec 2022 19:47:29 GMT</small>
+        </a>
+        <div style="clear: both;"></div>
+    </div>
+    
 <!-- END_MEDIUM_ARTICLES -->
+
+<br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/markfriese1
+[medium]: https://medium.com/@mark.friese.meng
+[X]: https://x.com/MarkFrieseMEng
