@@ -31,8 +31,6 @@
 ## Projects and Articles
 
 <!-- START_MEDIUM_ARTICLES -->
-
-<!-- START_MEDIUM_ARTICLES -->
 ### [Fetch, Process, and Visualize Data from the ALISS API with Python](https://medium.com/@mark.friese.meng/fetch-process-and-visualize-data-from-the-aliss-api-with-python-6d1b6694cd90?source=rss-adce0ee9bcb9------2)
 - No description
 
@@ -48,5 +46,3 @@
 ### [An Introduction to Folium, for beginners](https://medium.com/@mark.friese.meng/am-introduction-to-folium-for-beginners-26db59fdeac0?source=rss-adce0ee9bcb9------2)
 - No description
 
-
-<!-- END_MEDIUM_ARTICLES -->
