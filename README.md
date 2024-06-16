@@ -33,9 +33,6 @@
 <!-- START_MEDIUM_ARTICLES -->
 <!-- END_MEDIUM_ARTICLES -->
 
-## Contact Me
-Feel free to connect with me on LinkedIn!
-
 <br />
 <br />
 
