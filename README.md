@@ -23,7 +23,7 @@
       <br>GeoPandas
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/384px-QGIS_logo_new.svg.png?20180406083750" width="48" height="48" alt="QGIS" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/384px-QGIS_logo_new.svg.png?20180406083750" width="52" height="48" alt="QGIS" />
       <br>QGIS
     </td>
     <td align="center" width="96">
