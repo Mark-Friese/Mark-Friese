@@ -9,7 +9,8 @@
 
 ## Featured Projects
 
-### 🐐 [ProjectGoat](https://github.com/Mark-Friese/ProjectGoat-v1.0)
+### <img src="https://raw.githubusercontent.com/Mark-Friese/ProjectGoat-v1.0/main/public/project-goat-logo.svg" width="32" height="32" align="center" alt="ProjectGoat Logo" /> [ProjectGoat](https://github.com/Mark-Friese/ProjectGoat-v1.0)
+
 A comprehensive task management application designed for personal and team use. Built with modern web technologies including React, TypeScript, FastAPI, and SQLAlchemy. Features include sprint planning, Kanban boards, Gantt charts, risk management, and secure authentication.
 
 **Tech Stack:** React • TypeScript • FastAPI • SQLAlchemy • TailwindCSS • SQLite/PostgreSQL
