@@ -7,14 +7,6 @@
 - 🎯 2026 Goals: Master full-stack development, explore cloud deployment, and build more open-source projects
 - ⚡ Fun fact: My favorite place to be (when not coding) is outdoors Mountain Biking, Hiking, and SUP with my Family!
 
-## Featured Projects
-
-### <img src="https://raw.githubusercontent.com/Mark-Friese/ProjectGoat-v1.0/main/public/project-goat-logo.svg" width="32" height="32" align="center" alt="ProjectGoat Logo" /> [ProjectGoat](https://github.com/Mark-Friese/ProjectGoat-v1.0)
-
-A comprehensive task management application designed for personal and team use. Built with modern web technologies including React, TypeScript, FastAPI, and SQLAlchemy. Features include sprint planning, Kanban boards, Gantt charts, risk management, and secure authentication.
-
-**Tech Stack:** React • TypeScript • FastAPI • SQLAlchemy • TailwindCSS • SQLite/PostgreSQL
-
 ## Skills
 
 ### Backend Development
